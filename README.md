@@ -2,8 +2,7 @@
 cd ~/blender/blender-3.6.3-linux-x64/3.6/python/bin
 
 ./python3.10 -m pip install opencv-python pyros-genpy pyyaml
-./python3.10 -m pip install --extra-index-url https://rospypi.github.io/simple cv_bridge std_msgs geometry_msgs sensor_msgs
-
+./python3.10 -m pip install --extra-index-url https://rospypi.github.io/simple cv_bridge std_msgs geometry_msgs sensor_msgs rospy
 ```
 
 
