@@ -1,5 +1,5 @@
 #import msg types here
-from ROS_addon.external.std_msgs.msg import Int64, Float64
+from std_msgs.msg import Int64, Float64
 
 
 #call call_back functions by msg type here

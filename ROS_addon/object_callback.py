@@ -1,5 +1,5 @@
 #import msg types here
-from ROS_addon.external.geometry_msgs.msg import Point, Quaternion, Pose
+from geometry_msgs.msg import Point, Quaternion, Pose
 
 #call call_back functions by msg type here
 def object_callback(msg, object=None):
